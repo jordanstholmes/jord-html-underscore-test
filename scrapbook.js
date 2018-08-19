@@ -4,5 +4,3 @@ displayTextButton.addEventListener('click', function() {
 });
 
 
-// Now I'm adding a master comment
-// This comment is to be committed
